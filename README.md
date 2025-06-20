@@ -1,5 +1,6 @@
 ##  A Simple Working Multi-Stage Builds
 
+
 ## Getting Started
 
 - Clone the repo
@@ -23,4 +24,10 @@ docker run -p 3000:3000 ajeetraina/testapp
 ```
  curl localhost:3000
 Hello from Docker!
+```
+
+```
+ docker images
+REPOSITORY                 TAG       IMAGE ID       CREATED          SIZE
+ajeetraina/testapp         latest    e7126ac223b4   25 minutes ago   88MB
 ```
