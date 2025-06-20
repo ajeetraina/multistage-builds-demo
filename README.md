@@ -1,6 +1,8 @@
 ##  A Simple Working Multi-Stage Builds
 
 
+Reducing the size of Docker image from 166 MB to 88 MB.
+
 ## Getting Started
 
 - Clone the repo
@@ -31,3 +33,5 @@ Hello from Docker!
 REPOSITORY                 TAG       IMAGE ID       CREATED          SIZE
 ajeetraina/testapp         latest    e7126ac223b4   25 minutes ago   88MB
 ```
+
+
